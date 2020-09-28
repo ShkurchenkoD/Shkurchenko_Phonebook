@@ -1,0 +1,16 @@
+
+1. Subscriber full name:
+John
+Subscriber email:
+john@i.ua
+Subscriber phone number:
+0978461904
+=================
+
+2. Subscriber full name:
+Rob
+Subscriber email:
+rob@gmail.com
+Subscriber phone number:
+0673513805
+=================
